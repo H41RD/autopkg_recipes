@@ -9,7 +9,7 @@
     <key>Input</key>
     <dict>
         <key>NAME</key>
-        <string>logmeinClient</string>
+        <string>Grammarly</string>
         <key>DOWNLOAD_URL</key>
         <string>https://download-editor.grammarly.com/osx/Grammarly.dmg</string>
     </dict>
