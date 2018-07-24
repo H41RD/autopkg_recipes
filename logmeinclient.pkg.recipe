@@ -13,9 +13,6 @@
         <key>DOWNLOAD_URL</key>
         <string>https://secure.logmein.com/LogMeInClientMac.dmg</string>
     </dict>
-    <key>MinimumVersion</key>
-    <string>0.2.0</string>
-    <key>Process</key>
     <array>
         <dict>
             <key>Processor</key>
