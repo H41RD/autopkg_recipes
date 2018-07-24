@@ -46,8 +46,6 @@
             </dict>
         </dict>
     </array>
-</dict>
-<dict>
     <key>Description</key>
     <string>Downloads latest Google Chrome disk image and builds a package.</string>
     <key>Identifier</key>
