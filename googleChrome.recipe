@@ -45,18 +45,6 @@
                 <string>(identifier "com.google.Chrome" or identifier "com.google.Chrome.beta" or identifier "com.google.Chrome.dev" or identifier "com.google.Chrome.canary") and (certificate leaf = H"85cee8254216185620ddc8851c7a9fc4dfe120ef" or certificate leaf = H"c9a99324ca3fcb23dbcc36bd5fd4f9753305130a")</string>
             </dict>
         </dict>
-    </array>
-    <key>Description</key>
-    <string>Downloads latest Google Chrome disk image and builds a package.</string>
-    <key>Identifier</key>
-    <string>com.github.autopkg.pkg.googlechrome</string>
-    <key>Input</key>
-    <dict>
-        <key>NAME</key>
-        <string>GoogleChrome</string>
-    </dict>
-    <key>Process</key>
-    <array>
         <dict>
             <key>Processor</key>
             <string>AppDmgVersioner</string>
