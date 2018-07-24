@@ -42,16 +42,7 @@
                 <key>strict_verification</key>
                 <false/>
                 <key>requirement</key>
-                <string>(identifier "com.grammarly.DesktopEditor")</string>
-            </dict>
-        </dict>
-        <dict>
-            <key>Processor</key>
-            <string>AppDmgVersioner</string>
-            <key>Arguments</key>
-            <dict>
-                <key>dmg_path</key>
-                <string>%pathname%</string>
+                <string>(identifier "com..")</string>
             </dict>
         </dict>
         <dict>
