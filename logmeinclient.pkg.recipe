@@ -13,6 +13,7 @@
         <key>DOWNLOAD_URL</key>
         <string>https://secure.logmein.com/LogMeInClientMac.dmg</string>
     </dict>
+    <key>Process</key>
     <array>
         <dict>
             <key>Processor</key>
